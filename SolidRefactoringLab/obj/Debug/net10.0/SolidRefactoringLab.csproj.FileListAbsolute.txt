@@ -1,0 +1,15 @@
+C:\Users\Xig\SolidRefactoringLab\SolidRefactoringLab\bin\Debug\net10.0\SolidRefactoringLab.exe
+C:\Users\Xig\SolidRefactoringLab\SolidRefactoringLab\bin\Debug\net10.0\SolidRefactoringLab.deps.json
+C:\Users\Xig\SolidRefactoringLab\SolidRefactoringLab\bin\Debug\net10.0\SolidRefactoringLab.runtimeconfig.json
+C:\Users\Xig\SolidRefactoringLab\SolidRefactoringLab\bin\Debug\net10.0\SolidRefactoringLab.dll
+C:\Users\Xig\SolidRefactoringLab\SolidRefactoringLab\bin\Debug\net10.0\SolidRefactoringLab.pdb
+C:\Users\Xig\SolidRefactoringLab\SolidRefactoringLab\obj\Debug\net10.0\SolidRefactoringLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xig\SolidRefactoringLab\SolidRefactoringLab\obj\Debug\net10.0\SolidRefactoringLab.AssemblyInfoInputs.cache
+C:\Users\Xig\SolidRefactoringLab\SolidRefactoringLab\obj\Debug\net10.0\SolidRefactoringLab.AssemblyInfo.cs
+C:\Users\Xig\SolidRefactoringLab\SolidRefactoringLab\obj\Debug\net10.0\SolidRefactoringLab.csproj.CoreCompileInputs.cache
+C:\Users\Xig\SolidRefactoringLab\SolidRefactoringLab\obj\Debug\net10.0\SolidRefactoringLab.dll
+C:\Users\Xig\SolidRefactoringLab\SolidRefactoringLab\obj\Debug\net10.0\refint\SolidRefactoringLab.dll
+C:\Users\Xig\SolidRefactoringLab\SolidRefactoringLab\obj\Debug\net10.0\SolidRefactoringLab.pdb
+C:\Users\Xig\SolidRefactoringLab\SolidRefactoringLab\obj\Debug\net10.0\SolidRefactoringLab.genruntimeconfig.cache
+C:\Users\Xig\SolidRefactoringLab\SolidRefactoringLab\obj\Debug\net10.0\ref\SolidRefactoringLab.dll
+C:\Users\Xig\SolidRefactoringLab\SolidRefactoringLab\obj\Debug\net10.0\SolidRef.F1B170A9.Up2Date
